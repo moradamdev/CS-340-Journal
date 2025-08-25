@@ -1,2 +1,8 @@
-# CS-340-Journal
-CS 340 Journal
+How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+-The advantanges to writing maintainable, readable, and adaptable code is that everyone who works on the code will be able to read it and maintain it in the future. Chances are you arent going to be the only person working on a project, so it is important that you can pass the baton off to others.
+
+How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+-I approach every problem by breaking it down into pieces that are more understandable to fix. For example, if the problem is a payment error in your banking application, then I'd break down the problem to, entering the card, connecting with the bank, checking the amount that needs to be payed, then taking the money out of the users bank into the sellers bank.
+
+What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+-Computer scientists solve problems and make your life easier. It matters because there are a lot of problems that need to be solved, and a lot of things that could be made easier.
